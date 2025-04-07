@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Caio Miranda Wanil
 
-<!--
-**Caiowanil/Caiowanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação (1º período) e estou começando minha jornada no mundo da programação.  
+Atualmente estou aprendendo a linguagem C e me dedicando a entender lógica de programação, estruturas de dados e organização de código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos
+
+### 🧾 Gerenciador de Tarefas em C
+Um programa simples de terminal para adicionar, listar, marcar e remover tarefas.  
+> Linguagem: C | Conceitos: structs, arquivos, arrays, funções  
+🔗 [Veja o código aqui](https://github.com/**caio-wanil**/gerenciador-tarefas-c)  
+<sub>(Troque o link se usar outro nome de usuário ou repositório)</sub>
+
+---
+
+## 🧠 Habilidades
+
+- Linguagem C (iniciante)
+- Git e GitHub (básico)
+- Lógica de programação
+- Facilidade para aprender e se adaptar
+
+---
+
+## 📫 Contato
+
+- Email: caiowanil23@gmail.com
